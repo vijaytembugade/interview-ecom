@@ -9,10 +9,19 @@
   padding: 1rem;
 }
 
+.clear-filter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .clear-filter .clear-btn {
   padding: 0.5rem 1rem;
   background-color: rgb(238, 177, 55);
   border: none;
   border-radius: 0.5rem;
   cursor: pointer;
+  height: 2rem;
+  margin-right: 2rem;
 }

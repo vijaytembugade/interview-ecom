@@ -8,8 +8,8 @@ const Filters = () => {
 
   return (
     <div className="filter-container">
-      <h2>Filters</h2>
       <div className="clear-filter">
+        <h2>Filters</h2>
         <button
           className="clear-btn"
           onClick={() => dispatch({ type: "CLEAR_FILTER" })}
