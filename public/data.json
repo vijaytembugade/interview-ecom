@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "size": "small",
+    "brand": "Allen Solly",
+    "for": "Men",
+    "price": "600",
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/59810615503873.562922f4f08fb.jpg"
+  },
+  {
+    "id": 2,
+    "name": "T-shirt",
+    "size": "large",
+    "brand": "Peter England",
+    "for": "women",
+    "price": "450",
+    "img": "https://ih1.redbubble.net/image.390088268.8814/ssrco,slim_fit_t_shirt,womens,fafafa:ca443f4786,front,square_product,600x600.u2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "size": "x-large",
+    "brand": "Allen Solly",
+    "for": "Men",
+    "price": "360",
+    "img": "https://rlv.zcache.com/funny_random_guy_conversation_starter_t_shirt-r9bac02922ae743d9931d34b8842549c7_k2ggc_307.jpg"
+  },
+  {
+    "id": 4,
+    "name": "T-shirt",
+    "size": "medium",
+    "brand": "Louis Phillipe",
+    "for": "Men",
+    "price": "999",
+    "img": "https://src1.ilogo.in/upload/060213/13601275471141431211403899/1360143613/front_design_idea.webp"
+  },
+  {
+    "id": 5,
+    "name": "T-shirt",
+    "size": "medium",
+    "brand": "Allen Solly",
+    "for": "women",
+    "price": "250",
+    "img": "https://ih1.redbubble.net/image.675242310.4574/ssrco,classic_tee,womens,fafafa:ca443f4786,front_alt,square_product,600x600.jpg"
+  },
+  {
+    "id": 6,
+    "name": "T-shirt",
+    "size": "small",
+    "brand": "Peter England",
+    "for": "Men",
+    "price": "760",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s8GItPRRZeQk83luGTrmq96lub2tPxO22Q&usqp=CAU"
+  }
+]

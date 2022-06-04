@@ -1,0 +1,18 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(83, 14, 148);
+  min-height: 100vh;
+  height: 100%;
+  color: white;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+.clear-filter .clear-btn {
+  padding: 0.5rem 1rem;
+  background-color: rgb(238, 177, 55);
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
